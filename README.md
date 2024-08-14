@@ -68,12 +68,13 @@
   <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naatsuo&theme=nord_dark" alt="GitHub Streak" /></a>
 </div>
 
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naatsuo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/naatsuo/count.svg?"  />
