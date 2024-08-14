@@ -3,16 +3,6 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naatsuo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naatsuo&theme=nord_dark" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -49,6 +39,16 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naatsuo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naatsuo&theme=nord_dark" alt="GitHub Streak" /></a>
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naatsuo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
