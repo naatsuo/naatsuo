@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=naatsuo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=naatsuo&radius=16&theme=react&area=true&order=5](https://streak-stats.demolab.com?user=naatsuo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
