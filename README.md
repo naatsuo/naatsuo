@@ -12,9 +12,6 @@
   <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naatsuo&theme=nord_dark" alt="GitHub Streak" /></a>
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naatsuo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naatsuo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naatsuo&theme=nord_dark) |
-| :-: | :-: | :-: |
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
