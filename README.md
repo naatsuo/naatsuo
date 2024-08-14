@@ -10,6 +10,8 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=naatsuo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
